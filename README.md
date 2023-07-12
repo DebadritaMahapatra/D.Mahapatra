@@ -2,10 +2,10 @@
 My profile
 
 
-Hi 👋 My name is Rajat Kundu
+Hi 👋 My name is Debadrita Mahapatra
 ===============================
 
-CSE(IOT,CS,BCT) Undergrad Student
+BCA Undergrade Student
 ---------------------------------
 
 
@@ -17,11 +17,11 @@ CSE(IOT,CS,BCT) Undergrad Student
    Cyber Security made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤
 
 * 🌍  I'm based in Nabadwip, West Bengal, India.
-* 🌍  Currently Studying at University of Engineering and Management
-* ✉  You can contact me at [rajatkundu895@gmail.com](mailto:rajatkundu895@gmail.com)
-* 🧠  I'm learning Cyber Security and Kali Linux right now
+* 🌍  Currently Studying at JIS College of Engineering
+* ✉  You can contact me at [mahapatradebadrita@gmail.com](mailto:mahapatradebadrita@gmail.com)
+* 🧠  I'm learning Computer application,OS,Programming language right now
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow xD
+* ⚡  I have a Computer background, but most of the credit goes to Google and Stack Overflow xD
 
 
 
