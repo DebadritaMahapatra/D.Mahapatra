@@ -14,7 +14,7 @@ BCA Undergrade Student
 
    [***You like what you see? Nominate me for GitHub Stars!***](https://stars.github.com/nominate/)
    
-   Cyber Security made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤
+   Computer made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤
 
 * 🌍  I'm based in Nabadwip, West Bengal, India.
 * 🌍  Currently Studying at JIS College of Engineering
