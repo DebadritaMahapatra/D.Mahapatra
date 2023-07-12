@@ -50,8 +50,8 @@ BCA Undergrade Student
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/RajatKundu853" target="_white" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/rajat-kundu-098798215/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://github.com/DebadritaMahapatra" target="_white" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="linkedin.com/in/debadrita-mahapatra-429a99280" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://twitter.com/rajatkundu853" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
